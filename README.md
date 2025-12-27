@@ -36,3 +36,4 @@ If you have all dependencies installed in your system (via vcpkg, brew, or apt),
 ---
 
 ![Preview](/photo.jpg)
+![Preview](/photo1.png)
